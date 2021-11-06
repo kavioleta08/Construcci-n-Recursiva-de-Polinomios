@@ -1,4 +1,4 @@
-# Construcci-n-Recursiva-de-Polinomios
+# Construccion-Recursiva-de-Polinomios
 Parcial 2 Computación Científica
 Problema a resolver:
 
